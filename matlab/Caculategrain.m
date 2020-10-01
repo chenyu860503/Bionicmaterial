@@ -1,0 +1,14 @@
+r1=30;
+dr=1;
+r2=r1-dr;
+r3=r2-dr;
+r4=r3-dr;
+r5=r4-dr;
+dn=2;
+n1=60;
+beadlength=1.570075*2;
+n2=2*3.1415926*(r1-dr)/beadlength;
+n3=2*3.1415926*(r2-dr)/beadlength;
+n4=2*3.1415926*(r3-dr)/beadlength;
+n5=2*3.1415926*(r4-dr)/beadlength;
+n6=2*3.1415926*(r5-dr)/beadlength;
